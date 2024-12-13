@@ -1,0 +1,12 @@
+UK, 0.2, english, 68.2
+New Zealand, 0.27, english, 5.4
+Italy, 0.3, italian, 58.9
+Japan, 0.38, japanese, 124.0
+South Africa, 1.2, english, 62.0
+India, 3.3, hindi, 1428.5
+Australia, 7.7, english, 27.5
+Brazil, 8.5, portuguese, 203.0
+China, 9.5, chinese, 1409.6
+USA, 9.8, english, 335.9
+Canada, 9.9, english, french, 41.3
+Russia, 17.1, russian, 145.5

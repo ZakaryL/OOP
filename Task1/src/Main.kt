@@ -77,6 +77,7 @@ fun main() {
         i.Print()
 
     val my_file = File("list.txt")
+    my_file.writeText("")
     for(i in list_of_countries)
     {
         my_file.appendText(i.name+", "+i.area+", "+i.language+", "+i.population+"\n")
